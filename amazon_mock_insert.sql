@@ -5,7 +5,7 @@ INSERT INTO customer(
     address,
     billing_info
 )VALUES(
-    1,
+    2,
     'Alex',
     'Lucchesi',
     '123 Main Street, Seattle, WA 98007',
@@ -36,7 +36,7 @@ INSERT INTO inventory(
 
 -- Insert statement for the product data
 INSERT INTO product(
-    item_id,
+    iten_id,
     amount,
     prod_name,
     seller_id,
